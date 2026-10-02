@@ -1,7 +1,8 @@
 # Stand2Song
 a simple looking, stand randomizer app
-fully packet with more than 120 stands + musics for you to listen offline!
+fully packet with more than 100 stands + musics for you to listen offline!
 all of the musics in this app are protected by copyright laws, and all of them are available for you to listen on youtube
+the chance of getting a stand is completely random, so the chance of getting the stand you want is 1/122
 
 # How to use
 open the Stand2Song executable
