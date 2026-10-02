@@ -1,11 +1,11 @@
-# Stand2Song
+# Stand2Music
 a simple looking, stand randomizer app
-fully packet with more than 100 stands + musics for you to listen offline!
+fully packed with 114 stands + musics for you to listen offline!
 all of the musics in this app are protected by copyright laws, and all of them are available for you to listen on youtube
-the chance of getting a stand is completely random, so the chance of getting the stand you want is 1/122
+the chance of getting a stand is completely random, so the chance of getting the stand you want is 1/114
 
 # How to use
-open the Stand2Song executable
+open the Stand2Music executable
 click the reroll button
 and you'll recieve a random stand with its music reference
 for example, if u get Hey ya, the music "Hey ya!" from outkast will start playing in the background.
