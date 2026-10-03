@@ -18,3 +18,15 @@ document.getElementById('replay').addEventListener('click', () => {
     audio.currentTime = 0
     audio.play()
 })
+
+document.getElementById('pause').addEventListener('click', () => {
+   if(audio.paused){
+        audio.play()
+    } else {
+        audio.pause()
+    }
+})
+
+document.getElementById('volume').addEventListener('click', () => {
+    audio.volume= prompt(0-100)/100
+})
