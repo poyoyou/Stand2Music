@@ -19,12 +19,15 @@ body {
 }
 
 button {
-  display: flex;
-  justify-self: center;
-  align-self: center;
+  margin-left: 45px;
+  margin-bottom: 10px;
   width: 75px;
   height: 30px;
   font-size: 20px;
+  border-style: solid;
+  border-color: gold;
+  color: white;
+  background-image: url(./pic-background.jpg);
 }
 
 img {
@@ -32,3 +35,21 @@ img {
   border-style: solid;
   border-color: gold;
 }
+
+input {
+  display: flex;
+  justify-self: center;
+  align-self: center;
+}
+
+.slider-div {
+    background-image: url(./pic-background.jpg);
+    border: 3px solid gold;
+    color: gold;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+
+
