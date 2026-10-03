@@ -14,6 +14,7 @@ const createWindow = () => {
     })
 
     win.loadFile('index.html')
+    win.removeMenu();
 }
                                             //creates the window
 app.whenReady().then(() => {
