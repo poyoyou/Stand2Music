@@ -27,6 +27,6 @@ document.getElementById('pause').addEventListener('click', () => {
     }
 })
 
-document.getElementById('volume').addEventListener('click', () => {
-    audio.volume= prompt(0-100)/100
+document.getElementById('volume').addEventListener('input', () => {
+    audio.volume = document.getElementById('volume').value;
 })
