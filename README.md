@@ -21,7 +21,7 @@ support to **32-64x bits**<br><br>
 **android**<br><br>
 **1gb** of free disk space <br>
 **200mb** of ram<br>
-**32-64x bits** support
+**32-64x bits** support <br>
 **android 15+**
 
 # Credits
