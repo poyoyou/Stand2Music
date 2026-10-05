@@ -10,7 +10,7 @@ click the reroll button
 and you'll recieve a random stand with its music reference playing on the background!<br>
 for example, if u get Hey ya, the music "Hey ya!" from outkast will start playing in the background.
 
-#Requirements
+# Requirements
 **windows and linux**<br><br>
 **1gb** of free disk space <br>
 **200mb** of ram<br>
