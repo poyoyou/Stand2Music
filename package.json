@@ -1,0 +1,49 @@
+{
+  "name": "stand2music",
+  "version": "1.0.0",
+  "description": "simple stand randomizer app with music, fully offline",
+  "keywords": [
+    "jojo"
+  ],
+  "license": "ISC",
+  "author": "puyomii",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^44.5.1",
+    "electron-builder": "^26.15.3",
+    "electron-packager": "^17.1.2"
+  },
+  "allowScripts": {
+    "electron-winstaller@5.4.0": true
+  },
+  "package": {
+    "appId": "stand2music",
+    "productName": "Stand2Music",
+    "desktopName": "Stand2Music",
+    "files": [
+      "**/*"
+    ],
+    "directories": {
+      "buildResources": "build"
+    },
+    "win": {
+      "target": [
+        "portable"
+      ]
+    },
+    "linux": {
+      "target": [
+        "deb"
+      ],
+      "category": "Fun"
+    },
+    "packagerConfig": {
+      "icon": "./icon"
+    }
+  }
+}
