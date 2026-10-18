@@ -1,8 +1,8 @@
 # Stand2Music
 a simple looking, stand randomizer app
-fully packed with 141 stands + musics for you to listen offline! <br>
+fully packed with 150 stands + musics for you to listen offline! <br>
 all of the musics in this app are protected by copyright laws, and all of them are available for you to listen on youtube. <br>
-the chance of getting a stand is completely random, so the chance of getting the stand you want is 1/141
+the chance of getting a stand is completely random, so the chance of getting the stand you want is 1/150
 
 # How to use
 open the Stand2Music executable<br>
@@ -24,6 +24,6 @@ support to **32-64x bits**<br><br>
 **android 7+**
 
 # Credits
-this project includes all the stands from part 4(diamond is unbreakable) to part 9 (jojolands)<br>
+this project includes all the stands from part 4(diamond is unbreakable) to part 9 (jojolands) and some content from the light novels and spin-offs<br>
 if i missed any stands or got the reference music wrong, feel free to post an issue here or dm le_sheeep on discord!<br>
 musics are own by their original authors, none of the musics in here are mine.
